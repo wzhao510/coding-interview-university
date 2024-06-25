@@ -50,7 +50,7 @@
 - [Thai](https://github.com/jwasham/coding-interview-university/issues/156)
 - [Turkish](https://github.com/jwasham/coding-interview-university/issues/90)
 - [Українська](https://github.com/jwasham/coding-interview-university/issues/106)
-- [עברית](https://github.com/jwasham/coding-interview-university/issues/82)
+- [עברית](https://github.com/jwasham/coding-interview-university/issues/82) 
 - [हिन्दी](https://github.com/jwasham/coding-interview-university/issues/81)
 </details>
 
@@ -258,7 +258,7 @@ Create a new branch so you can check items like this, just put an x in the brack
     ```bash
     git commit -am "Marked personal progress"
     git pull upstream main  # keep your fork up-to-date with changes from the original repo
-
+    
     git push # just pushes to your fork
     ```
 
@@ -1294,11 +1294,11 @@ You're never really done.
 
     *****************************************************************************************************
     *****************************************************************************************************
-
+    
     Everything below this point is optional. It is NOT needed for an entry-level interview.
     However, by studying these, you'll get greater exposure to more CS concepts and will be better prepared for
     any software engineering job. You'll be a much more well-rounded software engineer.
-
+    
     *****************************************************************************************************
     *****************************************************************************************************
 
